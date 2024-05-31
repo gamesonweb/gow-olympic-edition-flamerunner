@@ -58,7 +58,7 @@ Sur le parcours, vous trouverez des cubes de bonus/malus. Ces cubes vous permett
 Le pourcentage au dessus des cubes indique la probabilité que vous avez de débloquer un **bonus**. 
 
 > [!NOTE]
-> Plus un cube est vert, plus il a de chance de donner un bonus. A contrario, plus un cube est rouge, plus il a de chance de donner un malus.
+> Plus un cube est vert, plus il a de chances de donner un bonus. A contrario, plus un cube est rouge, plus il a de chances de donner un malus.
 
 ![image](https://github.com/LouisVraie/flameRunner/assets/91614537/db68a243-c3b4-4cf7-b16f-283d079f2fde) ![image](https://github.com/LouisVraie/flameRunner/assets/91614537/19a34837-9600-4e26-9e93-bf2ce3c4fe3d)
 
