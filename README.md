@@ -8,7 +8,7 @@ Venez découvrir la bande annonce du jeu en **[cliquant ici](https://youtu.be/3I
 
 Pour avoir un aperçu du gameplay, **[cliquez ici](https://youtu.be/uiI-DI9plR0)**.
 
-## Histoire
+## 📢 Histoire
 
 "En vue de l'ouverture imminente des **Jeux Olympiques 2024**, tout le monde est à pied d'œuvre. Mais avec toute cette frénésie, les organisateurs ont oublié la **flamme olympique** ! 
 Soyez le ou la plus rapide à rapporter la flamme à Paris pour l'ouverture des jeux ! Mais prenez garde, la route est semée d'embuches…"
