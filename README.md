@@ -47,12 +47,12 @@ Le joueur avec le temps de course le plus court l'emporte.
 
 ## 📚 Guide
 
-**Départ**  
+### Départ  
 
 Une fois le jeu lancé, vous devez attendre la fin du décompte avant de pouvoir quitter le point de départ.
 
 
-**Cubes bonus/malus**
+### Cubes bonus/malus
 
 Sur le parcours, vous trouverez des cubes de bonus/malus. Ces cubes vous permettent d'obtenir aléatoirement un bonus ou un malus utilisable durant la course et applicable à soi-même. 
 Le pourcentage au dessus des cubes indique la probabilité que vous avez de débloquer un **bonus**. 
@@ -68,7 +68,7 @@ Chaque joueur ne peut posséder qu'un bonus/malus à la fois. Vous devez d'abord
 > Il n'est pas toujours bon de récupérer des cubes, tout dépend de votre startagie !
 
 
-**Bonus** 
+### Bonus
 
 1. Octroie un boost de vitesse pendan 10 secondes.  
 ![speedBonus](https://github.com/LouisVraie/flameRunner/assets/91614537/e4afcef5-0c01-4d98-8c87-5854e8902fc9) 
@@ -79,7 +79,7 @@ Chaque joueur ne peut posséder qu'un bonus/malus à la fois. Vous devez d'abord
 3. Accélère la récupération d'endurance pandant 10 secondes.  
 ![staminaRegenBonus](https://github.com/LouisVraie/flameRunner/assets/91614537/72e45815-5fce-4137-b495-4946e428945d)
 
-**Malus**
+### Malus
 
 1. Réduit la vitesse de déplacement pendant 10 secondes.  
 ![speedMalus](https://github.com/LouisVraie/flameRunner/assets/91614537/0fbf7180-6fb7-4c06-b10c-7bc08d8b8653) 
@@ -90,7 +90,7 @@ Chaque joueur ne peut posséder qu'un bonus/malus à la fois. Vous devez d'abord
 3. Diminue la récupération d'endurance pendant 10 secondes.  
 ![staminaRegenMalus](https://github.com/LouisVraie/flameRunner/assets/91614537/c976e530-4adb-4839-9f59-21d78a59944b)
 
-**Classes**
+### Classes
 
 * Endurance : Résistance au froid  
 
@@ -114,7 +114,7 @@ Permet de courir très vite pendant 5 secondes. Le délais de rechargement est d
 Permet de sauter plus haut et plus loin pendant 5 secondes. Le délais de rechargement est de 30 secondes.  
 ![gymnast](https://github.com/LouisVraie/flameRunner/assets/91614537/8e84f2db-8083-42cf-add1-6beed77fde29)
 
-**Jauge d'endurance**
+### Jauge d'endurance
 
 Elle se situe en haut à gauche de votre écran. Elle diminue lorsque vous maintenez votre touche de **sprint**. Si votre jauge est vide, vous ne pourrez plus courir rapidement.  
 
@@ -123,7 +123,7 @@ Relacher la touche de sprint pour récupérer de l'endurance. Elle se régénèr
 > [!TIP]
 > La plupart des bonus et malus influent sur votre endurance. Tâcher de les utiliser au moment opportun. 
 
-**Jouabilité**
+### Jouabilité
 
 Le jeu est jouable sur clavier AZERTY et QWERTY.
 
@@ -137,12 +137,12 @@ La touche **Capacity** permet d'utiliser la capacité de votre classe (la classe
 > [!NOTE]
 > Appuyer sur la touche **Echap** permet de revenir au menu précédent. En jeu, cette touche permet de mettre le jeu en pause et d'afficher les menus.
 
-**Chronomètre**
+### Chronomètre
 
 Pour terminer une partie, il vous faut arriver jusqu'à la flamme. À ce moment, votre chronomètre se fige.  
 Le meilleur temps de toutes vos courses est enregistré. Essayez de battre votre record personnel ! 
 
-**Biomes**
+### Biomes
 
 Les biomes sont répartis en 3 groupes :
 - Tempérés : Ville, Campagne, Forêt et Montagne
@@ -155,7 +155,7 @@ Les biomes chauds et froids influent sur la récupération d'endurance des joueu
 > Une fois tous les joueurs sortis d'un biome, il n'est plus possible d'y retourner.
 
 
-**Obstacles**
+### Obstacles
 
 Des obstacles sont présents sur le parcours afin de ralentir votre progression. Si vous entrez en contact avec un véhicule, un bison, un cactus, une chauve-souris, un poisson, une abeille ou un rocher, vous serez étourdis et vous ne pourrez plus bouger pendant 2 secondes.
 
