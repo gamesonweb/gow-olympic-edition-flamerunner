@@ -118,7 +118,7 @@ Permet de sauter plus haut et plus loin pendant 5 secondes. Le délais de rechar
 
 Le jeu est jouable sur clavier AZERTY et QWERTY.
 
-Les touches sont modifiables dans le menu **Settings** et sont enregistrées dans le cache de votre ordinateurs.
+Les touches sont modifiables dans le menu **Settings** et sont enregistrées dans le cache de votre navigateur.
 
 ![image](https://github.com/LouisVraie/flameRunner/assets/91614537/dee00f55-abfc-44a1-b2ef-b5e2ad9e4dec)
 
